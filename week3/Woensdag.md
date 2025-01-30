@@ -12,13 +12,12 @@
 - filmen scenes in hallway
 - video editen verticaal
 
-
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 *Instructie (1 item per dag volstaat):*  
-- Omschrijf kort je persoonlijke vooruitgang.  
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
+- nut van 4k filmen uitgelelgd voor als je vertical wil cutten'
+- filmen vertical en horizontal
 
 
 > **Nieuwe skills:**  
@@ -27,11 +26,7 @@
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
-*Instructie:*  
 
-- 
+- blij dat feedback niet zo slecht was, maar wil graag focusen op het horizontal video gedeelte
 
-
-> **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
-> - **"Gefrustreerd"** :zap:
+😤
